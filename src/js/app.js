@@ -1,4 +1,4 @@
-import { secretParagraph secretButton } from './dom-loader';
+import { secretParagraph, secretButton } from './dom-loader';
 
 var showSecret = false;
 
